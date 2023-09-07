@@ -17,7 +17,7 @@ TODO: Add demo
 1. Make sure python is installed. If not, it can be installed it from [here](https://www.python.org/downloads/). This
    was made using python 3.11.5, but should most likely work on previous versions as well, although it has not been
    tested.
-2. Git clone the repository (requires git to be installed) or download the source code from the releases tab and extract
+2. Git clone the repository (requires git to be installed) or download the source code from above and extract
    it.
 3. Go into the downloaded directory and install the requirements using `python -m pip install -r requirements.txt`
 
