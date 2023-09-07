@@ -1,0 +1,5 @@
+.idea
+outputs/*
+replays/*
+click_packs/*
+src/test.py

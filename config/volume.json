@@ -1,0 +1,15 @@
+{
+  "overall_volume_change": 20.0,
+
+  "click_volume_change": 0.0,
+  "release_volume_change": 0.0,
+
+  "clicks_volume_change": 0.0,
+  "releases_volume_change": 0.0,
+  "soft_clicks_volume_change":-2.0,
+  "soft_releases_volume_change": -2.0,
+  "hard_clicks_volume_change": 0.0,
+  "hard_releases_volume_change": 0.0,
+  "micro_clicks_volume_change": -3.0,
+  "micro_releases_volume_change": -3.0
+}
