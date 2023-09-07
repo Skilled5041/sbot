@@ -3,3 +3,4 @@ outputs/*
 replays/*
 click_packs/*
 src/test.py
+__pycache__
